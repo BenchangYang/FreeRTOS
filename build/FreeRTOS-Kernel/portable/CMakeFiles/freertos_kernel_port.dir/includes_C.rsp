@@ -1,0 +1,1 @@
+-I"D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/portable/template" -I"D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/." -I"D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/cmake_example/../template_configuration"

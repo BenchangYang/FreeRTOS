@@ -1,0 +1,24 @@
+FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir/stream_buffer.c.obj: \
+ D:\Code\FreeRTOS-LTS\FreeRTOS\FreeRTOS-Kernel\stream_buffer.c \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/string.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/FreeRTOS.h \
+ D:/Tools/C/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stddef.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ D:/Tools/C/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdint.h \
+ D:/Tools/C/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/examples/template_configuration/FreeRTOSConfig.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/projdefs.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/portable.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/deprecated_definitions.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/portable/template/portmacro.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/mpu_wrappers.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/task.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/list.h \
+ D:/Code/FreeRTOS-LTS/FreeRTOS/FreeRTOS-Kernel/include/stream_buffer.h

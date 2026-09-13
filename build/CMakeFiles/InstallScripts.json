@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Code/FreeRTOS-LTS/build/cmake_install.cmake",
+		"D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/cmake_install.cmake",
+		"D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/include/cmake_install.cmake",
+		"D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/portable/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

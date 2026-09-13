@@ -1,0 +1,11 @@
+D:/Code/FreeRTOS-LTS/build/CMakeFiles/example.dir
+D:/Code/FreeRTOS-LTS/build/CMakeFiles/edit_cache.dir
+D:/Code/FreeRTOS-LTS/build/CMakeFiles/rebuild_cache.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/CMakeFiles/edit_cache.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/CMakeFiles/rebuild_cache.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/include/CMakeFiles/edit_cache.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/include/CMakeFiles/rebuild_cache.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/portable/CMakeFiles/freertos_kernel_port.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/portable/CMakeFiles/edit_cache.dir
+D:/Code/FreeRTOS-LTS/build/FreeRTOS-Kernel/portable/CMakeFiles/rebuild_cache.dir
